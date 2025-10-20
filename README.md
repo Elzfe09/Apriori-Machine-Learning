@@ -32,7 +32,7 @@ The **Apriori Algorithm**, an **unsupervised machine learning model**, helps bri
 ## 🧾 About Dataset
 
 **Grocery member transaction retail dataset** 🛒  
-[click this dataset]('https://github.com/Elzfe09/Apriori-Machine-Learning/blob/main/Groceries_dataset.csv')
+[click this dataset](https://github.com/Elzfe09/Apriori-Machine-Learning/blob/main/Groceries_dataset.csv)
 Contains the following fields:  
 - 🧍‍♂️ **Member Number**  
 - 📅 **Date**  
